@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HzFramework</string>
+
+    <string name="layout_dialog_loading">正在加载</string>
+
+    <string name="phone_number">手机号</string>
+    <string name="password">密码</string>
+    <string name="Login">登录</string>
+    <string name="register_success">注册成功</string>
+    <string name="forgot_password">找回密码</string>
+    <string name="new_user">新用户</string>
+</resources>
